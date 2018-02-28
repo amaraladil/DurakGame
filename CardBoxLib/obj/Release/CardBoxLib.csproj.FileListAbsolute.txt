@@ -1,0 +1,6 @@
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\CardBoxLib\bin\Release\CardBoxLib.dll
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\CardBoxLib\bin\Release\CardBoxLib.pdb
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\CardBoxLib\obj\Release\CardBoxLib.Properties.Resources.resources
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\CardBoxLib\obj\Release\CardBoxLib.csproj.GenerateResource.Cache
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\CardBoxLib\obj\Release\CardBoxLib.dll
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\CardBoxLib\obj\Release\CardBoxLib.pdb

@@ -1,0 +1,10 @@
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\CardBox\bin\Release\CardBox.dll
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\CardBox\bin\Release\CardBox.pdb
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\CardBox\bin\Release\CardBoxLib.dll
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\CardBox\bin\Release\CardBoxLib.pdb
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\CardBox\obj\Release\CardBox.csprojResolveAssemblyReference.cache
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\CardBox\obj\Release\CardBox.CardBox.resources
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\CardBox\obj\Release\CardBox.Properties.Resources.resources
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\CardBox\obj\Release\CardBox.csproj.GenerateResource.Cache
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\CardBox\obj\Release\CardBox.dll
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\CardBox\obj\Release\CardBox.pdb

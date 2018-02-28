@@ -1,0 +1,14 @@
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\DurakGame\bin\Debug\DurakGame.exe.config
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\DurakGame\bin\Debug\DurakGame.exe
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\DurakGame\bin\Debug\DurakGame.pdb
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\DurakGame\bin\Debug\CardBox.dll
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\DurakGame\bin\Debug\CardBoxLib.dll
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\DurakGame\bin\Debug\CardBox.pdb
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\DurakGame\bin\Debug\CardBoxLib.pdb
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\DurakGame\obj\Debug\DurakGame.csprojResolveAssemblyReference.cache
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\DurakGame\obj\Debug\DurakGame.Properties.Resources.resources
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\DurakGame\obj\Debug\DurakGame.csproj.GenerateResource.Cache
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\DurakGame\obj\Debug\DurakGame.exe
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\DurakGame\obj\Debug\DurakGame.pdb
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\DurakGame\obj\Debug\DurakGame.MainForm.resources
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\DurakGame\obj\Debug\DurakGame.StatisticForm.resources

@@ -1,0 +1,14 @@
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\CardBoxLib\CardBoxLib\obj\Debug\CardBoxLib.Properties.Resources.resources
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\CardBoxLib\CardBoxLib\obj\Debug\CardBoxLib.csproj.GenerateResource.Cache
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\CardBoxLib\CardBoxLib\bin\Debug\CardBoxLib.dll
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\CardBoxLib\CardBoxLib\bin\Debug\CardBoxLib.pdb
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\CardBoxLib\CardBoxLib\obj\Debug\CardBoxLib.dll
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\CardBoxLib\CardBoxLib\obj\Debug\CardBoxLib.pdb
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\CardBoxLib\CardBoxLib\obj\Debug\CardBoxLib.csprojResolveAssemblyReference.cache
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\CardBoxLib\bin\Debug\CardBoxLib.dll
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\CardBoxLib\bin\Debug\CardBoxLib.pdb
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\CardBoxLib\obj\Debug\CardBoxLib.Properties.Resources.resources
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\CardBoxLib\obj\Debug\CardBoxLib.csproj.GenerateResource.Cache
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\CardBoxLib\obj\Debug\CardBoxLib.dll
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\CardBoxLib\obj\Debug\CardBoxLib.pdb
+C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\CardBoxLib\obj\Debug\CardBoxLib.csprojResolveAssemblyReference.cache

@@ -1,0 +1,662 @@
+11:31:50 PM  April 12, 2017 | Durak Game Executeable Opened
+11:31:51 PM  April 12, 2017 | Player Starts the Game with 24 cards
+11:31:51 PM  April 12, 2017 | Trump Suit was: Spades
+11:31:58 PM  April 12, 2017 | 	Player Clicked on Nine of Clubs
+11:31:58 PM  April 12, 2017 | 		(Nine of Clubs) starts the playing cards
+11:31:58 PM  April 12, 2017 | 		AI Chose to Play (The Nine of Diamonds) against (The Nine of Clubs)
+11:32:01 PM  April 12, 2017 | 	Player Clicked on Jack of Clubs
+11:32:01 PM  April 12, 2017 | 		(Jack of Clubs) beats last playing card (The Nine of Diamonds)
+11:32:01 PM  April 12, 2017 | 		AI Chose to Play (The Queen of Diamonds) against (The Jack of Clubs)
+11:32:04 PM  April 12, 2017 | 	Player Clicked on Ace of Clubs
+11:32:04 PM  April 12, 2017 | 		(Ace of Clubs) beats last playing card (The Queen of Diamonds)
+11:32:04 PM  April 12, 2017 | 		AI Chose to Play (The Nine of Spades) against (The Ace of Clubs)
+11:32:07 PM  April 12, 2017 | 	Player Clicked on Jack of Spades
+11:32:07 PM  April 12, 2017 | 		(Jack of Spades) beats last playing card (The Nine of Spades)
+11:32:07 PM  April 12, 2017 | AI Player Won
+11:32:44 PM  April 12, 2017 | Durak Game Executeable Opened
+11:32:47 PM  April 12, 2017 | Player Starts the Game with 24 cards
+11:32:47 PM  April 12, 2017 | Trump Suit was: Clubs
+11:33:02 PM  April 12, 2017 | 	Player Clicked on Jack of Spades
+11:33:02 PM  April 12, 2017 | 		(Jack of Spades) starts the playing cards
+11:33:02 PM  April 12, 2017 | 		AI Chose to Play (The Queen of Spades) against (The Jack of Spades)
+11:33:05 PM  April 12, 2017 | 	Player Clicked on King of Hearts
+11:33:05 PM  April 12, 2017 | 		(King of Hearts) beats last playing card (The Queen of Spades)
+11:33:05 PM  April 12, 2017 | 		AI Chose to Play (The Ace of Diamonds) against (The King of Hearts)
+11:33:07 PM  April 12, 2017 | 	Player Clicked on Nine of Clubs
+11:33:07 PM  April 12, 2017 | 		(Nine of Clubs) beats last playing card (The Ace of Diamonds)
+11:33:07 PM  April 12, 2017 | 		AI Chose to Play (The King of Clubs) against (The Nine of Clubs)
+11:33:09 PM  April 12, 2017 | 	Player Clicked on Ten of Clubs
+11:33:10 PM  April 12, 2017 | 		(Ten of Clubs) cannot beat last playing card (The King of Clubs)
+11:33:10 PM  April 12, 2017 | 	Player chose to take all cards
+11:33:11 PM  April 12, 2017 | 	AI Player starts the playing field as Defender
+11:33:11 PM  April 12, 2017 | 	AI Player chose to play (The Nine of Hearts)
+11:33:19 PM  April 12, 2017 | 	Player Clicked on Jack of Spades
+11:33:19 PM  April 12, 2017 | 		(Jack of Spades) beats last playing card (The Nine of Hearts)
+11:33:19 PM  April 12, 2017 | 		AI Chose to Play (The Queen of Hearts) against (The Jack of Spades)
+11:33:25 PM  April 12, 2017 | 	Player Clicked on Queen of Spades
+11:33:25 PM  April 12, 2017 | 		(Queen of Spades) beats last playing card (The Queen of Hearts)
+11:33:25 PM  April 12, 2017 | 		AI Chose to Play (The Ace of Spades) against (The Queen of Spades)
+11:33:28 PM  April 12, 2017 | 	Player Clicked on Ace of Diamonds
+11:33:28 PM  April 12, 2017 | 		(Ace of Diamonds) beats last playing card (The Ace of Spades)
+11:33:28 PM  April 12, 2017 | 		AI could not defend last playing field, takes all cards
+11:33:36 PM  April 12, 2017 | 	Player Clicked on Jack of Diamonds
+11:33:36 PM  April 12, 2017 | 		(Jack of Diamonds) starts the playing cards
+11:33:36 PM  April 12, 2017 | 		AI Chose to Play (The Jack of Spades) against (The Jack of Diamonds)
+11:33:38 PM  April 12, 2017 | 	Player Clicked on King of Hearts
+11:33:38 PM  April 12, 2017 | 		(King of Hearts) beats last playing card (The Jack of Spades)
+11:33:38 PM  April 12, 2017 | 		AI Chose to Play (The Ace of Spades) against (The King of Hearts)
+11:33:46 PM  April 12, 2017 | 	Player Clicked on Nine of Clubs
+11:33:46 PM  April 12, 2017 | 		(Nine of Clubs) beats last playing card (The Ace of Spades)
+11:33:46 PM  April 12, 2017 | 		AI could not attack last playing field, discards all cards
+11:33:46 PM  April 12, 2017 | 	AI Player starts the playing field as Defender
+11:33:46 PM  April 12, 2017 | 	AI Player chose to play (The Nine of Spades)
+11:34:00 PM  April 12, 2017 | 	Player Clicked on King of Diamonds
+11:34:00 PM  April 12, 2017 | 		(King of Diamonds) beats last playing card (The Nine of Spades)
+11:34:00 PM  April 12, 2017 | 		AI Chose to Play (The Ace of Diamonds) against (The King of Diamonds)
+11:34:02 PM  April 12, 2017 | 	Player Clicked on King of Spades
+11:34:03 PM  April 12, 2017 | 		(King of Spades) cannot beat last playing card (The Ace of Diamonds)
+11:34:04 PM  April 12, 2017 | 	Player Clicked on Ten of Clubs
+11:34:04 PM  April 12, 2017 | 		(Ten of Clubs) beats last playing card (The Ace of Diamonds)
+11:34:04 PM  April 12, 2017 | 		AI could not defend last playing field, takes all cards
+11:34:11 PM  April 12, 2017 | 	Player Clicked on Ten of Diamonds
+11:34:11 PM  April 12, 2017 | 		(Ten of Diamonds) starts the playing cards
+11:34:11 PM  April 12, 2017 | 		AI Chose to Play (The Ten of Hearts) against (The Ten of Diamonds)
+11:34:28 PM  April 12, 2017 | 	Player Clicked on King of Spades
+11:34:28 PM  April 12, 2017 | 		(King of Spades) beats last playing card (The Ten of Hearts)
+11:34:28 PM  April 12, 2017 | 		AI Chose to Play (The King of Diamonds) against (The King of Spades)
+11:34:32 PM  April 12, 2017 | 	Player Clicked on Jack of Clubs
+11:34:32 PM  April 12, 2017 | 		(Jack of Clubs) beats last playing card (The King of Diamonds)
+11:34:32 PM  April 12, 2017 | 		AI could not attack last playing field, discards all cards
+11:34:32 PM  April 12, 2017 | 	AI Player starts the playing field as Defender
+11:34:32 PM  April 12, 2017 | 	AI Player chose to play (The Nine of Hearts)
+11:34:52 PM  April 12, 2017 | 	Player Clicked on Ten of Spades
+11:34:52 PM  April 12, 2017 | 		(Ten of Spades) beats last playing card (The Nine of Hearts)
+11:34:52 PM  April 12, 2017 | 		AI Chose to Play (The Queen of Hearts) against (The Ten of Spades)
+11:34:55 PM  April 12, 2017 | 	Player Clicked on Queen of Diamonds
+11:34:55 PM  April 12, 2017 | 		(Queen of Diamonds) beats last playing card (The Queen of Hearts)
+11:34:55 PM  April 12, 2017 | 		AI Chose to Play (The Queen of Spades) against (The Queen of Diamonds)
+11:35:06 PM  April 12, 2017 | 	Player Clicked on King of Clubs
+11:35:06 PM  April 12, 2017 | 		(King of Clubs) beats last playing card (The Queen of Spades)
+11:35:06 PM  April 12, 2017 | 		AI could not defend last playing field, takes all cards
+11:35:30 PM  April 12, 2017 | 	Player Clicked on Nine of Diamonds
+11:35:30 PM  April 12, 2017 | 		(Nine of Diamonds) starts the playing cards
+11:35:30 PM  April 12, 2017 | 		AI Chose to Play (The Nine of Spades) against (The Nine of Diamonds)
+11:35:33 PM  April 12, 2017 | 	Player Clicked on Jack of Hearts
+11:35:33 PM  April 12, 2017 | 		(Jack of Hearts) beats last playing card (The Nine of Spades)
+11:35:33 PM  April 12, 2017 | 		AI Chose to Play (The Queen of Hearts) against (The Jack of Hearts)
+11:35:35 PM  April 12, 2017 | 	Player Clicked on Ace of Hearts
+11:35:35 PM  April 12, 2017 | 		(Ace of Hearts) beats last playing card (The Queen of Hearts)
+11:35:35 PM  April 12, 2017 | 		AI Chose to Play (The Ace of Diamonds) against (The Ace of Hearts)
+11:35:39 PM  April 12, 2017 | 	Player Clicked on Queen of Clubs
+11:35:39 PM  April 12, 2017 | 		(Queen of Clubs) beats last playing card (The Ace of Diamonds)
+11:35:39 PM  April 12, 2017 | 	AI Player starts the playing field as Defender
+11:35:39 PM  April 12, 2017 | 	AI Player chose to play (The Nine of Hearts)
+11:36:33 PM  April 12, 2017 | 	Player Clicked on Ace of Clubs
+11:36:33 PM  April 12, 2017 | 		(Ace of Clubs) beats last playing card (The Nine of Hearts)
+11:36:33 PM  April 12, 2017 | The Player Won
+11:36:35 PM  April 12, 2017 | Player Starts the Game with 24 cards
+11:36:35 PM  April 12, 2017 | Trump Suit was: Clubs
+11:37:00 PM  April 12, 2017 | 	Player Clicked on Nine of Spades
+11:37:00 PM  April 12, 2017 | 		(Nine of Spades) starts the playing cards
+11:37:00 PM  April 12, 2017 | 		AI Chose to Play (The Ten of Hearts) against (The Nine of Spades)
+11:37:05 PM  April 12, 2017 | 	Player Clicked on Queen of Spades
+11:37:05 PM  April 12, 2017 | 		(Queen of Spades) beats last playing card (The Ten of Hearts)
+11:37:05 PM  April 12, 2017 | 		AI Chose to Play (The Queen of Diamonds) against (The Queen of Spades)
+11:37:15 PM  April 12, 2017 | 	Player Clicked on Ace of Hearts
+11:37:15 PM  April 12, 2017 | 		(Ace of Hearts) beats last playing card (The Queen of Diamonds)
+11:37:15 PM  April 12, 2017 | 		AI Chose to Play (The King of Clubs) against (The Ace of Hearts)
+11:37:17 PM  April 12, 2017 | 	Player chose to take all cards
+11:37:17 PM  April 12, 2017 | 	AI Player starts the playing field as Defender
+11:37:17 PM  April 12, 2017 | 	AI Player chose to play (The Nine of Diamonds)
+11:37:23 PM  April 12, 2017 | 	Player Clicked on Nine of Hearts
+11:37:23 PM  April 12, 2017 | 		(Nine of Hearts) beats last playing card (The Nine of Diamonds)
+11:37:23 PM  April 12, 2017 | 		AI Chose to Play (The Ten of Spades) against (The Nine of Hearts)
+11:37:25 PM  April 12, 2017 | 	Player Clicked on Ten of Hearts
+11:37:25 PM  April 12, 2017 | 		(Ten of Hearts) beats last playing card (The Ten of Spades)
+11:37:26 PM  April 12, 2017 | 		AI Chose to Play (The Jack of Diamonds) against (The Ten of Hearts)
+11:37:30 PM  April 12, 2017 | 	Player Clicked on Queen of Diamonds
+11:37:30 PM  April 12, 2017 | 		(Queen of Diamonds) beats last playing card (The Jack of Diamonds)
+11:37:30 PM  April 12, 2017 | 		AI Chose to Play (The King of Hearts) against (The Queen of Diamonds)
+11:37:37 PM  April 12, 2017 | 	Player Clicked on Nine of Spades
+11:37:37 PM  April 12, 2017 | 		(Nine of Spades) starts the playing cards
+11:37:37 PM  April 12, 2017 | 		AI Chose to Play (The Jack of Hearts) against (The Nine of Spades)
+11:38:06 PM  April 12, 2017 | 	Player Clicked on Queen of Spades
+11:38:06 PM  April 12, 2017 | 		(Queen of Spades) beats last playing card (The Jack of Hearts)
+11:38:06 PM  April 12, 2017 | 		AI Chose to Play (The Ace of Spades) against (The Queen of Spades)
+11:38:09 PM  April 12, 2017 | 	Player Clicked on Ace of Hearts
+11:38:09 PM  April 12, 2017 | 		(Ace of Hearts) beats last playing card (The Ace of Spades)
+11:38:09 PM  April 12, 2017 | 		AI Chose to Play (The Ten of Clubs) against (The Ace of Hearts)
+11:38:15 PM  April 12, 2017 | 	Player Clicked on King of Clubs
+11:38:15 PM  April 12, 2017 | 		(King of Clubs) beats last playing card (The Ten of Clubs)
+11:38:15 PM  April 12, 2017 | 	AI Player starts the playing field as Defender
+11:38:15 PM  April 12, 2017 | 	AI Player chose to play (The Jack of Spades)
+11:38:30 PM  April 12, 2017 | 	Player Clicked on King of Spades
+11:38:30 PM  April 12, 2017 | 		(King of Spades) beats last playing card (The Jack of Spades)
+11:38:30 PM  April 12, 2017 | 		AI Chose to Play (The King of Diamonds) against (The King of Spades)
+11:38:32 PM  April 12, 2017 | 	Player Clicked on Ten of Diamonds
+11:38:33 PM  April 12, 2017 | 		(Ten of Diamonds) cannot beat last playing card (The King of Diamonds)
+11:39:24 PM  April 12, 2017 | 	Player Clicked on Nine of Clubs
+11:39:24 PM  April 12, 2017 | 		(Nine of Clubs) beats last playing card (The King of Diamonds)
+11:39:24 PM  April 12, 2017 | 		AI Chose to Play (The Jack of Clubs) against (The Nine of Clubs)
+11:39:26 PM  April 12, 2017 | 	Player Clicked on Queen of Clubs
+11:39:26 PM  April 12, 2017 | 		(Queen of Clubs) beats last playing card (The Jack of Clubs)
+11:39:26 PM  April 12, 2017 | 		AI could not defend last playing field, takes all cards
+11:39:32 PM  April 12, 2017 | 	Player Clicked on Ten of Diamonds
+11:39:32 PM  April 12, 2017 | 		(Ten of Diamonds) starts the playing cards
+11:39:32 PM  April 12, 2017 | 		AI Chose to Play (The Jack of Spades) against (The Ten of Diamonds)
+11:39:34 PM  April 12, 2017 | 	Player Clicked on Ace of Clubs
+11:39:34 PM  April 12, 2017 | 		(Ace of Clubs) beats last playing card (The Jack of Spades)
+11:39:34 PM  April 12, 2017 | The Player Won
+11:39:42 PM  April 12, 2017 | Player Starts the Game with 52 cards
+11:39:42 PM  April 12, 2017 | Trump Suit was: Diamonds
+11:39:46 PM  April 12, 2017 | 	Player Clicked on Deuce of Diamonds
+11:39:46 PM  April 12, 2017 | 		(Deuce of Diamonds) starts the playing cards
+11:39:46 PM  April 12, 2017 | 		AI Chose to Play (The Queen of Spades) against (The Deuce of Diamonds)
+11:39:54 PM  April 12, 2017 | 	Player Clicked on Four of Diamonds
+11:39:54 PM  April 12, 2017 | 		(Four of Diamonds) beats last playing card (The Queen of Spades)
+11:39:54 PM  April 12, 2017 | 		AI Chose to Play (The Ten of Diamonds) against (The Four of Diamonds)
+11:39:57 PM  April 12, 2017 | 	Player chose to take all cards
+11:39:57 PM  April 12, 2017 | 	AI Player starts the playing field as Defender
+11:39:57 PM  April 12, 2017 | 	AI Player chose to play (The Three of Spades)
+11:40:07 PM  April 12, 2017 | 	Player Clicked on Deuce of Diamonds
+11:40:07 PM  April 12, 2017 | 		(Deuce of Diamonds) beats last playing card (The Three of Spades)
+11:40:07 PM  April 12, 2017 | 		AI Chose to Play (The Three of Diamonds) against (The Deuce of Diamonds)
+11:40:10 PM  April 12, 2017 | 	Player Clicked on Jack of Hearts
+11:40:11 PM  April 12, 2017 | 		(Jack of Hearts) cannot beat last playing card (The Three of Diamonds)
+11:40:12 PM  April 12, 2017 | 	Player Clicked on Ace of Spades
+11:40:12 PM  April 12, 2017 | 		(Ace of Spades) beats last playing card (The Three of Diamonds)
+11:40:12 PM  April 12, 2017 | 		AI Chose to Play (The Five of Diamonds) against (The Ace of Spades)
+11:40:21 PM  April 12, 2017 | 	Player chose to take discard cards
+11:42:47 PM  April 12, 2017 | Durak Game Executeable Opened
+11:51:33 PM  April 12, 2017 | Durak Game Executeable Opened
+11:51:59 PM  April 12, 2017 | Durak Game Executeable Opened
+11:52:24 PM  April 12, 2017 | Durak Game Executeable Opened
+11:52:26 PM  April 12, 2017 | Player Starts the Game with 24 cards
+11:52:26 PM  April 12, 2017 | Trump Suit was: Spades
+11:53:51 PM  April 12, 2017 | Durak Game Executeable Opened
+12:00:09 AM  April 13, 2017 | Durak Game Executeable Opened
+12:00:15 AM  April 13, 2017 | Player Starts the Game with 24 cards
+12:00:15 AM  April 13, 2017 | Trump Suit was: Spades
+12:02:04 AM  April 13, 2017 | Durak Game Executeable Opened
+12:34:53 AM  April 13, 2017 | Durak Game Executeable Opened
+12:35:42 AM  April 13, 2017 | Durak Game Executeable Opened
+12:35:48 AM  April 13, 2017 | Player Starts the Game with 24 cards
+12:35:48 AM  April 13, 2017 | Trump Suit was: Hearts
+12:40:36 AM  April 13, 2017 | Durak Game Executeable Opened
+12:41:58 AM  April 13, 2017 | Durak Game Executeable Opened
+12:42:15 AM  April 13, 2017 | Player Starts the Game with 24 cards
+12:42:15 AM  April 13, 2017 | Trump Suit was: Clubs
+12:43:21 AM  April 13, 2017 | Durak Game Executeable Opened
+12:43:45 AM  April 13, 2017 | Durak Game Executeable Opened
+12:43:53 AM  April 13, 2017 | Player Starts the Game with 24 cards
+12:43:53 AM  April 13, 2017 | Trump Suit was: Clubs
+12:44:18 AM  April 13, 2017 | Durak Game Executeable Opened
+12:44:19 AM  April 13, 2017 | Player Starts the Game with 24 cards
+12:44:19 AM  April 13, 2017 | Trump Suit was: Diamonds
+12:51:51 AM  April 13, 2017 | Durak Game Executeable Opened
+12:51:55 AM  April 13, 2017 | Player Starts the Game with 24 cards
+12:51:55 AM  April 13, 2017 | Trump Suit was: Clubs
+12:52:03 AM  April 13, 2017 | 	Player Clicked on Ten of Diamonds
+12:52:03 AM  April 13, 2017 | 		(Ten of Diamonds) starts the playing cards
+12:52:03 AM  April 13, 2017 | 		AI Chose to Play (The Ten of Spades) against (The Ten of Diamonds)
+12:59:24 AM  April 13, 2017 | Durak Game Executeable Opened
+12:59:26 AM  April 13, 2017 | Player Starts the Game with 24 cards
+12:59:26 AM  April 13, 2017 | Trump Suit was: Hearts
+1:10:13 AM  April 13, 2017 | Durak Game Executeable Opened
+1:10:15 AM  April 13, 2017 | Player Starts the Game with 24 cards
+1:10:15 AM  April 13, 2017 | Trump Suit was: Diamonds
+1:10:18 AM  April 13, 2017 | 	Player Clicked on Nine of Spades
+1:10:18 AM  April 13, 2017 | 		(Nine of Spades) starts the playing cards
+1:10:18 AM  April 13, 2017 | 		AI Chose to Play (The Ten of Spades) against (The Nine of Spades)
+1:10:24 AM  April 13, 2017 | 	Player Clicked on Jack of Clubs
+1:10:24 AM  April 13, 2017 | 		(Jack of Clubs) beats last playing card (The Ten of Spades)
+1:10:24 AM  April 13, 2017 | 		AI Chose to Play (The Jack of Spades) against (The Jack of Clubs)
+1:10:29 AM  April 13, 2017 | 	Player Clicked on Queen of Hearts
+1:10:29 AM  April 13, 2017 | 		(Queen of Hearts) beats last playing card (The Jack of Spades)
+1:10:29 AM  April 13, 2017 | 		AI Chose to Play (The Queen of Clubs) against (The Queen of Hearts)
+1:10:32 AM  April 13, 2017 | 	Player Clicked on Ace of Hearts
+1:10:32 AM  April 13, 2017 | 		(Ace of Hearts) beats last playing card (The Queen of Clubs)
+1:10:32 AM  April 13, 2017 | 	AI Player starts the playing field as Defender
+1:10:32 AM  April 13, 2017 | 	AI Player chose to play (The Nine of Clubs)
+1:10:42 AM  April 13, 2017 | 	Player Clicked on King of Clubs
+1:10:42 AM  April 13, 2017 | 		(King of Clubs) beats last playing card (The Nine of Clubs)
+1:10:42 AM  April 13, 2017 | 		AI Chose to Play (The Ace of Clubs) against (The King of Clubs)
+1:10:45 AM  April 13, 2017 | 	Player Clicked on King of Hearts
+1:10:45 AM  April 13, 2017 | 		(King of Hearts) cannot beat last playing card (The Ace of Clubs)
+1:10:56 AM  April 13, 2017 | 	Player Clicked on Ace of Spades
+1:10:56 AM  April 13, 2017 | 		(Ace of Spades) beats last playing card (The Ace of Clubs)
+1:10:56 AM  April 13, 2017 | 		AI Chose to Play (The Ace of Diamonds) against (The Ace of Spades)
+1:10:59 AM  April 13, 2017 | 	Player Clicked on Ten of Diamonds
+1:10:59 AM  April 13, 2017 | 		(Ten of Diamonds) cannot beat last playing card (The Ace of Diamonds)
+1:11:00 AM  April 13, 2017 | 	Player Clicked on King of Hearts
+1:11:00 AM  April 13, 2017 | 		(King of Hearts) cannot beat last playing card (The Ace of Diamonds)
+1:11:01 AM  April 13, 2017 | 	Player Clicked on Jack of Diamonds
+1:11:01 AM  April 13, 2017 | 		(Jack of Diamonds) cannot beat last playing card (The Ace of Diamonds)
+1:11:01 AM  April 13, 2017 | 	Player Clicked on Ten of Diamonds
+1:11:01 AM  April 13, 2017 | 		(Ten of Diamonds) cannot beat last playing card (The Ace of Diamonds)
+1:11:02 AM  April 13, 2017 | 	Player Clicked on King of Hearts
+1:11:02 AM  April 13, 2017 | 		(King of Hearts) cannot beat last playing card (The Ace of Diamonds)
+1:11:02 AM  April 13, 2017 | 	Player Clicked on Jack of Diamonds
+1:11:02 AM  April 13, 2017 | 		(Jack of Diamonds) cannot beat last playing card (The Ace of Diamonds)
+1:11:03 AM  April 13, 2017 | 	Player Clicked on Ten of Diamonds
+1:11:03 AM  April 13, 2017 | 		(Ten of Diamonds) cannot beat last playing card (The Ace of Diamonds)
+1:11:04 AM  April 13, 2017 | 	Player Clicked on Ten of Diamonds
+1:11:04 AM  April 13, 2017 | 		(Ten of Diamonds) cannot beat last playing card (The Ace of Diamonds)
+1:11:04 AM  April 13, 2017 | 	Player Clicked on King of Hearts
+1:11:04 AM  April 13, 2017 | 		(King of Hearts) cannot beat last playing card (The Ace of Diamonds)
+1:11:05 AM  April 13, 2017 | 	Player Clicked on Jack of Diamonds
+1:11:05 AM  April 13, 2017 | 		(Jack of Diamonds) cannot beat last playing card (The Ace of Diamonds)
+1:11:05 AM  April 13, 2017 | 	Player Clicked on Jack of Diamonds
+1:11:05 AM  April 13, 2017 | 		(Jack of Diamonds) cannot beat last playing card (The Ace of Diamonds)
+1:11:05 AM  April 13, 2017 | 	Player Clicked on King of Hearts
+1:11:05 AM  April 13, 2017 | 		(King of Hearts) cannot beat last playing card (The Ace of Diamonds)
+1:11:06 AM  April 13, 2017 | 	Player Clicked on King of Hearts
+1:11:06 AM  April 13, 2017 | 		(King of Hearts) cannot beat last playing card (The Ace of Diamonds)
+1:11:06 AM  April 13, 2017 | 	Player Clicked on Ten of Diamonds
+1:11:06 AM  April 13, 2017 | 		(Ten of Diamonds) cannot beat last playing card (The Ace of Diamonds)
+1:11:38 AM  April 13, 2017 | Durak Game Executeable Opened
+1:11:39 AM  April 13, 2017 | Player Starts the Game with 24 cards
+1:11:39 AM  April 13, 2017 | Trump Suit was: Clubs
+1:11:41 AM  April 13, 2017 | 	Player Clicked on Ace of Clubs
+1:11:41 AM  April 13, 2017 | 		(Ace of Clubs) starts the playing cards
+1:11:41 AM  April 13, 2017 | 		AI could not attack last playing field, discards all cards
+1:11:41 AM  April 13, 2017 | 	AI Player starts the playing field as Defender
+1:11:41 AM  April 13, 2017 | 	AI Player chose to play (The Ten of Spades)
+1:11:47 AM  April 13, 2017 | 	Player Clicked on Nine of Hearts
+1:11:47 AM  April 13, 2017 | 		(Nine of Hearts) cannot beat last playing card (The Ten of Spades)
+1:11:57 AM  April 13, 2017 | 	Player Clicked on Jack of Spades
+1:11:57 AM  April 13, 2017 | 		(Jack of Spades) beats last playing card (The Ten of Spades)
+1:11:57 AM  April 13, 2017 | 		AI Chose to Play (The Jack of Diamonds) against (The Jack of Spades)
+1:11:59 AM  April 13, 2017 | 	Player Clicked on Nine of Hearts
+1:11:59 AM  April 13, 2017 | 		(Nine of Hearts) cannot beat last playing card (The Jack of Diamonds)
+1:12:04 AM  April 13, 2017 | 	Player Clicked on Ace of Hearts
+1:12:04 AM  April 13, 2017 | 		(Ace of Hearts) beats last playing card (The Jack of Diamonds)
+1:12:04 AM  April 13, 2017 | 		AI could not defend last playing field, takes all cards
+1:12:12 AM  April 13, 2017 | 	Player Clicked on Nine of Hearts
+1:12:12 AM  April 13, 2017 | 		(Nine of Hearts) starts the playing cards
+1:12:12 AM  April 13, 2017 | 		AI Chose to Play (The Ten of Spades) against (The Nine of Hearts)
+1:12:24 AM  April 13, 2017 | 	Player Clicked on Ace of Diamonds
+1:12:24 AM  April 13, 2017 | 		(Ace of Diamonds) beats last playing card (The Ten of Spades)
+1:12:24 AM  April 13, 2017 | 		AI Chose to Play (The Ace of Hearts) against (The Ace of Diamonds)
+1:12:26 AM  April 13, 2017 | 	Player Clicked on Ace of Spades
+1:12:26 AM  April 13, 2017 | 		(Ace of Spades) beats last playing card (The Ace of Hearts)
+1:12:26 AM  April 13, 2017 | 		AI could not attack last playing field, discards all cards
+1:12:26 AM  April 13, 2017 | 	AI Player starts the playing field as Defender
+1:12:26 AM  April 13, 2017 | 	AI Player chose to play (The Jack of Spades)
+1:12:32 AM  April 13, 2017 | 	Player Clicked on Ten of Hearts
+1:12:32 AM  April 13, 2017 | 		(Ten of Hearts) cannot beat last playing card (The Jack of Spades)
+1:12:38 AM  April 13, 2017 | 	Player Clicked on Jack of Hearts
+1:12:38 AM  April 13, 2017 | 		(Jack of Hearts) beats last playing card (The Jack of Spades)
+1:12:38 AM  April 13, 2017 | 		AI Chose to Play (The Jack of Diamonds) against (The Jack of Hearts)
+1:12:46 AM  April 13, 2017 | 	Player Clicked on Ten of Hearts
+1:12:46 AM  April 13, 2017 | 		(Ten of Hearts) cannot beat last playing card (The Jack of Diamonds)
+1:13:36 AM  April 13, 2017 | Durak Game Executeable Opened
+1:13:38 AM  April 13, 2017 | Player Starts the Game with 24 cards
+1:13:38 AM  April 13, 2017 | Trump Suit was: Spades
+1:16:22 AM  April 13, 2017 | Durak Game Executeable Opened
+1:16:23 AM  April 13, 2017 | Player Starts the Game with 24 cards
+1:16:23 AM  April 13, 2017 | Trump Suit was: Hearts
+1:16:26 AM  April 13, 2017 | 	Player Clicked on Ten of Hearts
+1:16:26 AM  April 13, 2017 | 		(Ten of Hearts) starts the playing cards
+1:16:26 AM  April 13, 2017 | 		AI Chose to Play (The Queen of Hearts) against (The Ten of Hearts)
+1:16:49 AM  April 13, 2017 | Durak Game Executeable Opened
+1:16:50 AM  April 13, 2017 | Player Starts the Game with 24 cards
+1:16:50 AM  April 13, 2017 | Trump Suit was: Spades
+1:16:53 AM  April 13, 2017 | 	Player Clicked on Queen of Spades
+1:16:54 AM  April 13, 2017 | 		(Queen of Spades) starts the playing cards
+1:16:54 AM  April 13, 2017 | 		AI could not attack last playing field, discards all cards
+1:16:54 AM  April 13, 2017 | 	AI Player starts the playing field as Defender
+1:16:54 AM  April 13, 2017 | 	AI Player chose to play (The Ten of Diamonds)
+1:16:58 AM  April 13, 2017 | 	Player Clicked on Queen of Clubs
+1:16:58 AM  April 13, 2017 | 		(Queen of Clubs) beats last playing card (The Ten of Diamonds)
+1:16:58 AM  April 13, 2017 | 		AI Chose to Play (The Queen of Diamonds) against (The Queen of Clubs)
+1:16:59 AM  April 13, 2017 | 	Player Clicked on Jack of Spades
+1:16:59 AM  April 13, 2017 | 		(Jack of Spades) beats last playing card (The Queen of Diamonds)
+1:16:59 AM  April 13, 2017 | 		AI could not defend last playing field, takes all cards
+1:17:02 AM  April 13, 2017 | 	Player Clicked on Nine of Clubs
+1:17:02 AM  April 13, 2017 | 		(Nine of Clubs) starts the playing cards
+1:17:02 AM  April 13, 2017 | 		AI Chose to Play (The Ten of Diamonds) against (The Nine of Clubs)
+1:17:04 AM  April 13, 2017 | 	Player Clicked on Ten of Clubs
+1:17:04 AM  April 13, 2017 | 		(Ten of Clubs) beats last playing card (The Ten of Diamonds)
+1:17:04 AM  April 13, 2017 | 		AI Chose to Play (The Jack of Clubs) against (The Ten of Clubs)
+1:17:07 AM  April 13, 2017 | 	Player Clicked on Jack of Hearts
+1:17:07 AM  April 13, 2017 | 		(Jack of Hearts) beats last playing card (The Jack of Clubs)
+1:17:07 AM  April 13, 2017 | 		AI Chose to Play (The Queen of Clubs) against (The Jack of Hearts)
+1:17:10 AM  April 13, 2017 | 	Player Clicked on Queen of Hearts
+1:17:10 AM  April 13, 2017 | 		(Queen of Hearts) beats last playing card (The Queen of Clubs)
+1:17:10 AM  April 13, 2017 | 	AI Player starts the playing field as Defender
+1:17:10 AM  April 13, 2017 | 	AI Player chose to play (The Queen of Diamonds)
+1:17:15 AM  April 13, 2017 | 	Player Clicked on Nine of Spades
+1:17:15 AM  April 13, 2017 | 		(Nine of Spades) beats last playing card (The Queen of Diamonds)
+1:17:15 AM  April 13, 2017 | 		AI Chose to Play (The Jack of Spades) against (The Nine of Spades)
+1:17:19 AM  April 13, 2017 | 	Player Clicked on Nine of Diamonds
+1:17:19 AM  April 13, 2017 | 		(Nine of Diamonds) cannot beat last playing card (The Jack of Spades)
+1:17:20 AM  April 13, 2017 | 	Player Clicked on Ace of Diamonds
+1:17:20 AM  April 13, 2017 | 		(Ace of Diamonds) cannot beat last playing card (The Jack of Spades)
+1:17:22 AM  April 13, 2017 | 	Player chose to take discard cards
+1:17:26 AM  April 13, 2017 | 	Player Clicked on Nine of Diamonds
+1:17:26 AM  April 13, 2017 | 		(Nine of Diamonds) starts the playing cards
+1:17:26 AM  April 13, 2017 | 		AI Chose to Play (The Jack of Diamonds) against (The Nine of Diamonds)
+1:17:30 AM  April 13, 2017 | 	Player Clicked on Ten of Spades
+1:17:30 AM  April 13, 2017 | 		(Ten of Spades) beats last playing card (The Jack of Diamonds)
+1:17:30 AM  April 13, 2017 | 		AI could not attack last playing field, discards all cards
+1:17:30 AM  April 13, 2017 | 	AI Player starts the playing field as Defender
+1:17:30 AM  April 13, 2017 | 	AI Player chose to play (The Nine of Hearts)
+1:17:34 AM  April 13, 2017 | 	Player Clicked on Ten of Hearts
+1:17:34 AM  April 13, 2017 | 		(Ten of Hearts) beats last playing card (The Nine of Hearts)
+1:17:34 AM  April 13, 2017 | 		AI Chose to Play (The King of Clubs) against (The Ten of Hearts)
+1:17:38 AM  April 13, 2017 | 	Player Clicked on King of Diamonds
+1:17:38 AM  April 13, 2017 | 		(King of Diamonds) beats last playing card (The King of Clubs)
+1:17:38 AM  April 13, 2017 | 		AI Chose to Play (The King of Hearts) against (The King of Diamonds)
+1:17:41 AM  April 13, 2017 | 	Player Clicked on Ace of Diamonds
+1:17:41 AM  April 13, 2017 | 		(Ace of Diamonds) beats last playing card (The King of Hearts)
+1:17:41 AM  April 13, 2017 | 		AI Chose to Play (The Ace of Clubs) against (The Ace of Diamonds)
+1:17:48 AM  April 13, 2017 | 	Player Clicked on King of Spades
+1:17:48 AM  April 13, 2017 | 		(King of Spades) starts the playing cards
+1:17:48 AM  April 13, 2017 | 		AI could not attack last playing field, discards all cards
+1:17:48 AM  April 13, 2017 | 	AI Player starts the playing field as Defender
+1:17:48 AM  April 13, 2017 | 	AI Player chose to play (The Ace of Hearts)
+1:17:48 AM  April 13, 2017 | 	AI Player Wins The Game
+1:17:48 AM  April 13, 2017 | AI Player Won
+1:18:02 AM  April 13, 2017 | Player Starts the Game with 24 cards
+1:18:02 AM  April 13, 2017 | Trump Suit was: Spades
+1:18:15 AM  April 13, 2017 | Durak Game Executeable Opened
+1:18:17 AM  April 13, 2017 | Player Starts the Game with 24 cards
+1:18:17 AM  April 13, 2017 | Trump Suit was: Spades
+1:19:43 AM  April 13, 2017 | Durak Game Executeable Opened
+1:19:45 AM  April 13, 2017 | Player Starts the Game with 24 cards
+1:19:45 AM  April 13, 2017 | Trump Suit was: Hearts
+1:19:49 AM  April 13, 2017 | 	Player Clicked on Ace of Spades
+1:19:49 AM  April 13, 2017 | 		(Ace of Spades) starts the playing cards
+1:19:49 AM  April 13, 2017 | 		AI could not attack last playing field, discards all cards
+1:19:49 AM  April 13, 2017 | 	AI Player starts the playing field as Defender
+1:19:49 AM  April 13, 2017 | 	AI Player chose to play (The Nine of Clubs)
+1:19:51 AM  April 13, 2017 | 	Player Clicked on Ace of Hearts
+1:19:51 AM  April 13, 2017 | 		(Ace of Hearts) beats last playing card (The Nine of Clubs)
+1:19:51 AM  April 13, 2017 | 		AI could not defend last playing field, takes all cards
+1:19:53 AM  April 13, 2017 | 	Player Clicked on Jack of Clubs
+1:19:53 AM  April 13, 2017 | 		(Jack of Clubs) starts the playing cards
+1:19:53 AM  April 13, 2017 | 		AI Chose to Play (The Jack of Spades) against (The Jack of Clubs)
+1:19:57 AM  April 13, 2017 | 	Player Clicked on Queen of Clubs
+1:19:57 AM  April 13, 2017 | 		(Queen of Clubs) beats last playing card (The Jack of Spades)
+1:19:57 AM  April 13, 2017 | 		AI Chose to Play (The King of Spades) against (The Queen of Clubs)
+1:19:59 AM  April 13, 2017 | 	Player Clicked on Ten of Spades
+1:19:59 AM  April 13, 2017 | 		(Ten of Spades) cannot beat last playing card (The King of Spades)
+1:20:01 AM  April 13, 2017 | 	Player Clicked on Nine of Hearts
+1:20:01 AM  April 13, 2017 | 		(Nine of Hearts) beats last playing card (The King of Spades)
+1:20:01 AM  April 13, 2017 | 		AI Chose to Play (The Ace of Hearts) against (The Nine of Hearts)
+1:20:03 AM  April 13, 2017 | 	Player chose to take all cards
+1:20:03 AM  April 13, 2017 | 	AI Player starts the playing field as Defender
+1:20:03 AM  April 13, 2017 | 	AI Player chose to play (The Nine of Diamonds)
+1:20:07 AM  April 13, 2017 | 	Player Clicked on Ten of Spades
+1:20:07 AM  April 13, 2017 | 		(Ten of Spades) beats last playing card (The Nine of Diamonds)
+1:20:07 AM  April 13, 2017 | 		AI Chose to Play (The Ten of Diamonds) against (The Ten of Spades)
+1:20:15 AM  April 13, 2017 | 	Player Clicked on Jack of Clubs
+1:20:15 AM  April 13, 2017 | 		(Jack of Clubs) beats last playing card (The Ten of Diamonds)
+1:20:15 AM  April 13, 2017 | 		AI Chose to Play (The King of Clubs) against (The Jack of Clubs)
+1:20:19 AM  April 13, 2017 | 	Player Clicked on King of Spades
+1:20:19 AM  April 13, 2017 | 		(King of Spades) beats last playing card (The King of Clubs)
+1:20:19 AM  April 13, 2017 | 		AI Chose to Play (The Ace of Diamonds) against (The King of Spades)
+1:20:28 AM  April 13, 2017 | 	Player Clicked on Jack of Spades
+1:20:28 AM  April 13, 2017 | 		(Jack of Spades) starts the playing cards
+1:20:28 AM  April 13, 2017 | 		AI Chose to Play (The Queen of Diamonds) against (The Jack of Spades)
+1:20:31 AM  April 13, 2017 | 	Player Clicked on Queen of Clubs
+1:20:31 AM  April 13, 2017 | 		(Queen of Clubs) beats last playing card (The Queen of Diamonds)
+1:20:31 AM  April 13, 2017 | 		AI Chose to Play (The Ace of Clubs) against (The Queen of Clubs)
+1:20:34 AM  April 13, 2017 | 	Player Clicked on Ten of Hearts
+1:20:34 AM  April 13, 2017 | 		(Ten of Hearts) beats last playing card (The Ace of Clubs)
+1:20:34 AM  April 13, 2017 | 		AI Chose to Play (The King of Hearts) against (The Ten of Hearts)
+1:20:39 AM  April 13, 2017 | 	Player Clicked on Ace of Hearts
+1:20:39 AM  April 13, 2017 | 		(Ace of Hearts) beats last playing card (The King of Hearts)
+1:20:39 AM  April 13, 2017 | 	AI Player starts the playing field as Defender
+1:20:39 AM  April 13, 2017 | 	AI Player chose to play (The Nine of Clubs)
+1:20:45 AM  April 13, 2017 | 	Player Clicked on King of Diamonds
+1:20:45 AM  April 13, 2017 | 		(King of Diamonds) beats last playing card (The Nine of Clubs)
+1:20:45 AM  April 13, 2017 | 		AI could not defend last playing field, takes all cards
+1:20:48 AM  April 13, 2017 | 	Player Clicked on Nine of Hearts
+1:20:48 AM  April 13, 2017 | 		(Nine of Hearts) starts the playing cards
+1:20:48 AM  April 13, 2017 | 		AI could not attack last playing field, discards all cards
+1:20:48 AM  April 13, 2017 | 	AI Player starts the playing field as Defender
+1:20:48 AM  April 13, 2017 | 	AI Player chose to play (The Nine of Spades)
+1:20:52 AM  April 13, 2017 | 	Player Clicked on Queen of Hearts
+1:20:52 AM  April 13, 2017 | 		(Queen of Hearts) beats last playing card (The Nine of Spades)
+1:20:52 AM  April 13, 2017 | 		AI could not defend last playing field, takes all cards
+1:20:54 AM  April 13, 2017 | 	Player Clicked on Jack of Hearts
+1:20:54 AM  April 13, 2017 | 		(Jack of Hearts) starts the playing cards
+1:20:54 AM  April 13, 2017 | 		AI Chose to Play (The Queen of Hearts) against (The Jack of Hearts)
+1:25:55 AM  April 13, 2017 | Durak Game Executeable Opened
+1:25:57 AM  April 13, 2017 | Player Starts the Game with 24 cards
+1:25:57 AM  April 13, 2017 | Trump Suit was: Hearts
+1:33:39 AM  April 13, 2017 | Durak Game Executeable Opened
+1:33:40 AM  April 13, 2017 | Player Starts the Game with 24 cards
+1:33:41 AM  April 13, 2017 | Trump Suit was: Spades
+1:33:42 AM  April 13, 2017 | 	Player Clicked on Jack of Hearts
+1:33:42 AM  April 13, 2017 | 		(Jack of Hearts) starts the playing cards
+1:33:42 AM  April 13, 2017 | 		AI Chose to Play (The Jack of Clubs) against (The Jack of Hearts)
+1:35:47 AM  April 13, 2017 | Durak Game Executeable Opened
+1:35:48 AM  April 13, 2017 | Player Starts the Game with 24 cards
+1:35:49 AM  April 13, 2017 | Trump Suit was: Hearts
+1:36:47 AM  April 13, 2017 | Durak Game Executeable Opened
+1:36:48 AM  April 13, 2017 | Player Starts the Game with 24 cards
+1:36:48 AM  April 13, 2017 | Trump Suit was: Diamonds
+1:37:21 AM  April 13, 2017 | Durak Game Executeable Opened
+1:37:22 AM  April 13, 2017 | Player Starts the Game with 24 cards
+1:37:22 AM  April 13, 2017 | Trump Suit was: Spades
+1:38:10 AM  April 13, 2017 | Durak Game Executeable Opened
+1:38:11 AM  April 13, 2017 | Player Starts the Game with 24 cards
+1:38:11 AM  April 13, 2017 | Trump Suit was: Hearts
+1:41:22 AM  April 13, 2017 | Durak Game Executeable Opened
+1:41:24 AM  April 13, 2017 | Player Starts the Game with 24 cards
+1:41:24 AM  April 13, 2017 | Trump Suit was: Clubs
+1:43:04 AM  April 13, 2017 | Durak Game Executeable Opened
+1:43:06 AM  April 13, 2017 | Player Starts the Game with 24 cards
+1:43:06 AM  April 13, 2017 | Trump Suit was: Diamonds
+1:45:20 AM  April 13, 2017 | Durak Game Executeable Opened
+1:45:22 AM  April 13, 2017 | Player Starts the Game with 24 cards
+1:45:22 AM  April 13, 2017 | Trump Suit was: Hearts
+1:45:26 AM  April 13, 2017 | 	Player Clicked on King of Spades
+1:45:26 AM  April 13, 2017 | 		(King of Spades) starts the playing cards
+1:45:26 AM  April 13, 2017 | 		AI Chose to Play (The Ace of Spades) against (The King of Spades)
+1:46:57 AM  April 13, 2017 | Durak Game Executeable Opened
+1:54:38 AM  April 13, 2017 | Durak Game Executeable Opened
+1:54:51 AM  April 13, 2017 | Durak Game Executeable Opened
+1:57:52 AM  April 13, 2017 | Durak Game Executeable Opened
+1:57:54 AM  April 13, 2017 | Player Starts the Game with 24 cards
+1:57:54 AM  April 13, 2017 | Trump Suit was: Hearts
+2:02:34 AM  April 13, 2017 | Durak Game Executeable Opened
+2:02:36 AM  April 13, 2017 | Player Starts the Game with 24 cards
+2:02:36 AM  April 13, 2017 | Trump Suit was: Clubs
+2:02:39 AM  April 13, 2017 | 	Player Clicked on Nine of Clubs
+2:02:39 AM  April 13, 2017 | 		(Nine of Clubs) starts the playing cards
+2:02:39 AM  April 13, 2017 | 		AI Chose to Play (The Ace of Clubs) against (The Nine of Clubs)
+2:02:51 AM  April 13, 2017 | 	Player chose to take all cards
+2:02:51 AM  April 13, 2017 | 	AI Player starts the playing field as Defender
+2:02:51 AM  April 13, 2017 | 	AI Player chose to play (The Ten of Spades)
+2:02:59 AM  April 13, 2017 | 	Player Clicked on Ten of Diamonds
+2:02:59 AM  April 13, 2017 | 		(Ten of Diamonds) beats last playing card (The Ten of Spades)
+2:03:00 AM  April 13, 2017 | 		AI Chose to Play (The Ten of Hearts) against (The Ten of Diamonds)
+2:03:04 AM  April 13, 2017 | 	Player Clicked on Queen of Spades
+2:03:04 AM  April 13, 2017 | 		(Queen of Spades) beats last playing card (The Ten of Hearts)
+2:03:04 AM  April 13, 2017 | 		AI Chose to Play (The King of Diamonds) against (The Queen of Spades)
+2:03:07 AM  April 13, 2017 | 	Player Clicked on Nine of Clubs
+2:03:07 AM  April 13, 2017 | 		(Nine of Clubs) beats last playing card (The King of Diamonds)
+2:03:07 AM  April 13, 2017 | 		AI could not defend last playing field, takes all cards
+2:03:13 AM  April 13, 2017 | 	Player Clicked on Nine of Diamonds
+2:03:13 AM  April 13, 2017 | 		(Nine of Diamonds) starts the playing cards
+2:03:13 AM  April 13, 2017 | 		AI Chose to Play (The Ten of Spades) against (The Nine of Diamonds)
+2:03:15 AM  April 13, 2017 | 	Player Clicked on Jack of Spades
+2:03:15 AM  April 13, 2017 | 		(Jack of Spades) beats last playing card (The Ten of Spades)
+2:03:15 AM  April 13, 2017 | 		AI Chose to Play (The Jack of Diamonds) against (The Jack of Spades)
+2:03:18 AM  April 13, 2017 | 	Player Clicked on Ten of Clubs
+2:03:18 AM  April 13, 2017 | 		(Ten of Clubs) beats last playing card (The Jack of Diamonds)
+2:03:18 AM  April 13, 2017 | 		AI could not attack last playing field, discards all cards
+2:03:18 AM  April 13, 2017 | 	AI Player starts the playing field as Defender
+2:03:18 AM  April 13, 2017 | 	AI Player chose to play (The Ten of Diamonds)
+2:03:30 AM  April 13, 2017 | 	Player Clicked on Queen of Hearts
+2:03:30 AM  April 13, 2017 | 		(Queen of Hearts) beats last playing card (The Ten of Diamonds)
+2:03:30 AM  April 13, 2017 | 		AI Chose to Play (The Queen of Spades) against (The Queen of Hearts)
+2:03:34 AM  April 13, 2017 | 	Player Clicked on King of Spades
+2:03:34 AM  April 13, 2017 | 		(King of Spades) beats last playing card (The Queen of Spades)
+2:03:34 AM  April 13, 2017 | 		AI Chose to Play (The King of Diamonds) against (The King of Spades)
+2:03:40 AM  April 13, 2017 | 	Player chose to take discard cards
+2:03:46 AM  April 13, 2017 | 	Player Clicked on Nine of Spades
+2:03:46 AM  April 13, 2017 | 		(Nine of Spades) starts the playing cards
+2:03:46 AM  April 13, 2017 | 		AI Chose to Play (The Ten of Hearts) against (The Nine of Spades)
+2:03:51 AM  April 13, 2017 | 	Player Clicked on Ace of Diamonds
+2:03:51 AM  April 13, 2017 | 		(Ace of Diamonds) beats last playing card (The Ten of Hearts)
+2:03:52 AM  April 13, 2017 | 		AI Chose to Play (The Ace of Hearts) against (The Ace of Diamonds)
+2:03:53 AM  April 13, 2017 | 	Player Clicked on Nine of Hearts
+2:03:53 AM  April 13, 2017 | 		(Nine of Hearts) cannot beat last playing card (The Ace of Hearts)
+2:03:57 AM  April 13, 2017 | 	Player Clicked on Jack of Clubs
+2:03:57 AM  April 13, 2017 | 		(Jack of Clubs) beats last playing card (The Ace of Hearts)
+2:03:57 AM  April 13, 2017 | 		AI Chose to Play (The Queen of Clubs) against (The Jack of Clubs)
+2:04:04 AM  April 13, 2017 | 	Player Clicked on Ace of Clubs
+2:04:04 AM  April 13, 2017 | 		(Ace of Clubs) beats last playing card (The Queen of Clubs)
+2:04:04 AM  April 13, 2017 | 	AI Player starts the playing field as Defender
+2:04:04 AM  April 13, 2017 | 	AI Player chose to play (The Jack of Hearts)
+2:04:09 AM  April 13, 2017 | 	Player Clicked on Ace of Spades
+2:04:09 AM  April 13, 2017 | 		(Ace of Spades) beats last playing card (The Jack of Hearts)
+2:04:09 AM  April 13, 2017 | 		AI Chose to Play (The Nine of Clubs) against (The Ace of Spades)
+2:04:12 AM  April 13, 2017 | 	Player chose to take discard cards
+2:04:14 AM  April 13, 2017 | 	Player Clicked on Nine of Hearts
+2:04:14 AM  April 13, 2017 | 		(Nine of Hearts) starts the playing cards
+2:04:14 AM  April 13, 2017 | 		AI Chose to Play (The Queen of Diamonds) against (The Nine of Hearts)
+2:04:14 AM  April 13, 2017 | The Player Won
+2:04:42 AM  April 13, 2017 | Player Starts the Game with 24 cards
+2:04:42 AM  April 13, 2017 | Trump Suit was: Diamonds
+1:33:33 PM  April 13, 2017 | Durak Game Executeable Opened
+1:34:40 PM  April 13, 2017 | Player Starts the Game with 24 cards
+1:34:40 PM  April 13, 2017 | Trump Suit was: Clubs
+1:34:43 PM  April 13, 2017 | 	Player Clicked on King of Spades
+1:34:43 PM  April 13, 2017 | 		(King of Spades) starts the playing cards
+1:34:43 PM  April 13, 2017 | 		AI Chose to Play (The Jack of Clubs) against (The King of Spades)
+1:34:46 PM  April 13, 2017 | 	Player Clicked on Ten of Diamonds
+1:34:46 PM  April 13, 2017 | 		(Ten of Diamonds) cannot beat last playing card (The Jack of Clubs)
+1:34:47 PM  April 13, 2017 | 	Player Clicked on Queen of Clubs
+1:34:47 PM  April 13, 2017 | 		(Queen of Clubs) beats last playing card (The Jack of Clubs)
+1:34:47 PM  April 13, 2017 | 		AI could not attack last playing field, discards all cards
+1:34:47 PM  April 13, 2017 | 	AI Player starts the playing field as Defender
+1:34:47 PM  April 13, 2017 | 	AI Player chose to play (The Nine of Spades)
+2:54:35 PM  April 13, 2017 | Durak Game Executeable Opened
+3:28:52 PM  April 13, 2017 | Durak Game Executeable Opened
+3:30:07 PM  April 13, 2017 | Durak Game Executeable Opened
+3:30:09 PM  April 13, 2017 | Player Starts the Game with 24 cards
+3:30:09 PM  April 13, 2017 | Trump Suit was: Diamonds
+3:30:18 PM  April 13, 2017 | 	Player Clicked on Nine of Spades
+3:30:18 PM  April 13, 2017 | 		(Nine of Spades) starts the playing cards
+3:30:18 PM  April 13, 2017 | 		AI Chose to Play (The Jack of Spades) against (The Nine of Spades)
+3:30:23 PM  April 13, 2017 | 	Player Clicked on Queen of Spades
+3:30:23 PM  April 13, 2017 | 		(Queen of Spades) beats last playing card (The Jack of Spades)
+3:30:23 PM  April 13, 2017 | 		AI Chose to Play (The Queen of Clubs) against (The Queen of Spades)
+3:30:25 PM  April 13, 2017 | 	Player Clicked on Ten of Spades
+3:30:25 PM  April 13, 2017 | 		(Ten of Spades) cannot beat last playing card (The Queen of Clubs)
+3:30:25 PM  April 13, 2017 | 	Player Clicked on Nine of Clubs
+3:30:25 PM  April 13, 2017 | 		(Nine of Clubs) cannot beat last playing card (The Queen of Clubs)
+3:30:28 PM  April 13, 2017 | 	Player chose to take all cards
+3:30:28 PM  April 13, 2017 | 	AI Player starts the playing field as Defender
+3:30:28 PM  April 13, 2017 | 	AI Player chose to play (The Ace of Hearts)
+4:12:12 PM  April 13, 2017 | Durak Game Executeable Opened
+4:12:15 PM  April 13, 2017 | Player Starts the Game with 24 cards
+4:12:15 PM  April 13, 2017 | Trump Suit was: Diamonds
+4:12:18 PM  April 13, 2017 | 	Player Clicked on Jack of Diamonds
+4:12:18 PM  April 13, 2017 | 		(Jack of Diamonds) starts the playing cards
+4:12:18 PM  April 13, 2017 | 		AI Chose to Play (The Queen of Diamonds) against (The Jack of Diamonds)
+4:12:52 PM  April 13, 2017 | Durak Game Executeable Opened
+4:43:56 PM  April 13, 2017 | Durak Game Executeable Opened
+4:44:53 PM  April 13, 2017 | Player Starts the Game with 24 cards
+4:44:53 PM  April 13, 2017 | Trump Suit was: Spades
+4:59:46 PM  April 13, 2017 | Durak Game Executeable Opened
+4:59:47 PM  April 13, 2017 | Player Starts the Game with 24 cards
+4:59:47 PM  April 13, 2017 | Trump Suit was: Clubs
+4:59:52 PM  April 13, 2017 | 	Player Clicked on Ace of Spades
+4:59:52 PM  April 13, 2017 | 		(Ace of Spades) starts the playing cards
+4:59:52 PM  April 13, 2017 | 		AI Chose to Play (The Ace of Clubs) against (The Ace of Spades)
+4:59:55 PM  April 13, 2017 | 	Player chose to take all cards
+4:59:55 PM  April 13, 2017 | 	AI Player starts the playing field as Defender
+4:59:55 PM  April 13, 2017 | 	AI Player chose to play (The Nine of Spades)
+4:59:58 PM  April 13, 2017 | 	Player Clicked on Ace of Spades
+4:59:58 PM  April 13, 2017 | 		(Ace of Spades) beats last playing card (The Nine of Spades)
+4:59:58 PM  April 13, 2017 | 		AI could not defend last playing field, takes all cards
+5:00:01 PM  April 13, 2017 | 	Player Clicked on Nine of Clubs
+5:00:01 PM  April 13, 2017 | 		(Nine of Clubs) starts the playing cards
+5:00:01 PM  April 13, 2017 | 		AI could not attack last playing field, discards all cards
+5:00:01 PM  April 13, 2017 | 	AI Player starts the playing field as Defender
+5:00:01 PM  April 13, 2017 | 	AI Player chose to play (The Nine of Hearts)
+5:00:09 PM  April 13, 2017 | 	Player Clicked on Ace of Diamonds
+5:00:10 PM  April 13, 2017 | 		(Ace of Diamonds) beats last playing card (The Nine of Hearts)
+5:00:10 PM  April 13, 2017 | 		AI Chose to Play (The Ace of Spades) against (The Ace of Diamonds)
+5:00:12 PM  April 13, 2017 | 	Player Clicked on Ten of Clubs
+5:00:12 PM  April 13, 2017 | 		(Ten of Clubs) beats last playing card (The Ace of Spades)
+5:00:12 PM  April 13, 2017 | 		AI could not defend last playing field, takes all cards
+5:00:17 PM  April 13, 2017 | 	Player Clicked on Ten of Hearts
+5:00:17 PM  April 13, 2017 | 		(Ten of Hearts) starts the playing cards
+5:00:17 PM  April 13, 2017 | 		AI Chose to Play (The Ten of Diamonds) against (The Ten of Hearts)
+5:00:22 PM  April 13, 2017 | 	Player Clicked on Jack of Clubs
+5:00:22 PM  April 13, 2017 | 		(Jack of Clubs) beats last playing card (The Ten of Diamonds)
+5:00:22 PM  April 13, 2017 | 		AI could not attack last playing field, discards all cards
+5:00:22 PM  April 13, 2017 | 	AI Player starts the playing field as Defender
+5:00:22 PM  April 13, 2017 | 	AI Player chose to play (The Nine of Spades)
+5:00:31 PM  April 13, 2017 | 	Player Clicked on Jack of Diamonds
+5:00:31 PM  April 13, 2017 | 		(Jack of Diamonds) beats last playing card (The Nine of Spades)
+5:00:31 PM  April 13, 2017 | 		AI Chose to Play (The Queen of Diamonds) against (The Jack of Diamonds)
+5:00:35 PM  April 13, 2017 | 	Player chose to take discard cards
+5:00:49 PM  April 13, 2017 | 	Player Clicked on Jack of Hearts
+5:00:49 PM  April 13, 2017 | 		(Jack of Hearts) starts the playing cards
+5:00:49 PM  April 13, 2017 | 		AI Chose to Play (The Ace of Diamonds) against (The Jack of Hearts)
+5:00:55 PM  April 13, 2017 | 	Player chose to take all cards
+5:00:55 PM  April 13, 2017 | 	AI Player starts the playing field as Defender
+5:00:55 PM  April 13, 2017 | 	AI Player chose to play (The Nine of Hearts)
+5:01:01 PM  April 13, 2017 | 	Player Clicked on Jack of Hearts
+5:01:01 PM  April 13, 2017 | 		(Jack of Hearts) beats last playing card (The Nine of Hearts)
+5:01:01 PM  April 13, 2017 | 		AI Chose to Play (The Ace of Spades) against (The Jack of Hearts)
+5:01:03 PM  April 13, 2017 | 	Player Clicked on Ace of Diamonds
+5:01:03 PM  April 13, 2017 | 		(Ace of Diamonds) beats last playing card (The Ace of Spades)
+5:01:03 PM  April 13, 2017 | 		AI Chose to Play (The Ace of Hearts) against (The Ace of Diamonds)
+5:01:07 PM  April 13, 2017 | 	Player Clicked on King of Hearts
+5:01:07 PM  April 13, 2017 | 		(King of Hearts) cannot beat last playing card (The Ace of Hearts)
+5:01:09 PM  April 13, 2017 | 	Player Clicked on Queen of Clubs
+5:01:09 PM  April 13, 2017 | 		(Queen of Clubs) beats last playing card (The Ace of Hearts)
+5:01:09 PM  April 13, 2017 | 		AI could not defend last playing field, takes all cards
+5:01:13 PM  April 13, 2017 | 	Player Clicked on Nine of Diamonds
+5:01:14 PM  April 13, 2017 | 		(Nine of Diamonds) starts the playing cards
+5:01:14 PM  April 13, 2017 | 		AI Chose to Play (The Nine of Hearts) against (The Nine of Diamonds)
+5:01:24 PM  April 13, 2017 | 	Player Clicked on Queen of Hearts
+5:01:24 PM  April 13, 2017 | 		(Queen of Hearts) beats last playing card (The Nine of Hearts)
+5:01:24 PM  April 13, 2017 | 		AI Chose to Play (The Ace of Spades) against (The Queen of Hearts)
+5:01:25 PM  April 13, 2017 | 	Player Clicked on King of Hearts
+5:01:25 PM  April 13, 2017 | 		(King of Hearts) cannot beat last playing card (The Ace of Spades)
+5:01:38 PM  April 13, 2017 | 	Player chose to take all cards
+5:01:38 PM  April 13, 2017 | 	AI Player starts the playing field as Defender
+5:01:38 PM  April 13, 2017 | 	AI Player chose to play (The Ten of Spades)
+5:01:43 PM  April 13, 2017 | 	Player Clicked on Queen of Hearts
+5:01:43 PM  April 13, 2017 | 		(Queen of Hearts) beats last playing card (The Ten of Spades)
+5:01:43 PM  April 13, 2017 | 		AI Chose to Play (The Ace of Diamonds) against (The Queen of Hearts)
+5:01:44 PM  April 13, 2017 | 	Player Clicked on Ace of Spades
+5:01:44 PM  April 13, 2017 | 		(Ace of Spades) beats last playing card (The Ace of Diamonds)
+5:01:44 PM  April 13, 2017 | 		AI Chose to Play (The Ace of Hearts) against (The Ace of Spades)
+5:01:47 PM  April 13, 2017 | 	Player chose to take discard cards
+5:01:50 PM  April 13, 2017 | 	Player Clicked on Nine of Diamonds
+5:01:50 PM  April 13, 2017 | 		(Nine of Diamonds) starts the playing cards
+5:01:50 PM  April 13, 2017 | 		AI Chose to Play (The Jack of Hearts) against (The Nine of Diamonds)
+5:01:52 PM  April 13, 2017 | 	Player Clicked on King of Hearts
+5:01:52 PM  April 13, 2017 | 		(King of Hearts) beats last playing card (The Jack of Hearts)
+5:01:52 PM  April 13, 2017 | 		AI Chose to Play (The King of Diamonds) against (The King of Hearts)
+5:01:56 PM  April 13, 2017 | 	Player Clicked on King of Clubs
+5:01:56 PM  April 13, 2017 | 		(King of Clubs) beats last playing card (The King of Diamonds)
+5:01:57 PM  April 13, 2017 | 		AI could not attack last playing field, discards all cards
+5:01:57 PM  April 13, 2017 | 	AI Player starts the playing field as Defender
+5:01:57 PM  April 13, 2017 | 	AI Player chose to play (The Jack of Spades)
+5:02:01 PM  April 13, 2017 | 	Player Clicked on Ace of Clubs
+5:02:01 PM  April 13, 2017 | 		(Ace of Clubs) beats last playing card (The Jack of Spades)
+5:02:01 PM  April 13, 2017 | 		AI could not defend last playing field, takes all cards
+5:02:02 PM  April 13, 2017 | 	Player Clicked on Nine of Hearts
+5:02:02 PM  April 13, 2017 | 		(Nine of Hearts) starts the playing cards
+5:02:02 PM  April 13, 2017 | 		AI Chose to Play (The Jack of Spades) against (The Nine of Hearts)
+5:02:02 PM  April 13, 2017 | The Player Won
+5:02:27 PM  April 13, 2017 | Player Starts the Game with 24 cards
+5:02:27 PM  April 13, 2017 | Trump Suit was: Clubs
+5:10:46 PM  April 13, 2017 | Durak Game Executeable Opened
+5:13:05 PM  April 13, 2017 | Durak Game Executeable Opened
+5:14:45 PM  April 13, 2017 | Durak Game Executeable Opened
+5:15:00 PM  April 13, 2017 | Player Starts the Game with 24 cards
+5:15:00 PM  April 13, 2017 | Trump Suit was: Clubs
