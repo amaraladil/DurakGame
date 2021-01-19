@@ -12,3 +12,24 @@ C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\DurakGa
 C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\DurakGame\obj\Debug\DurakGame.pdb
 C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\DurakGame\obj\Debug\DurakGame.MainForm.resources
 C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\DurakGame\obj\Debug\DurakGame.StatisticForm.resources
+C:\Users\amara\Documents\GitHub\DurakGame\DurakGame\bin\Debug\DurakGame.exe.config
+C:\Users\amara\Documents\GitHub\DurakGame\DurakGame\bin\Debug\DurakGame.exe
+C:\Users\amara\Documents\GitHub\DurakGame\DurakGame\bin\Debug\DurakGame.pdb
+C:\Users\amara\Documents\GitHub\DurakGame\DurakGame\bin\Debug\CardBox.dll
+C:\Users\amara\Documents\GitHub\DurakGame\DurakGame\bin\Debug\CardBoxLib.dll
+C:\Users\amara\Documents\GitHub\DurakGame\DurakGame\bin\Debug\CardBox.pdb
+C:\Users\amara\Documents\GitHub\DurakGame\DurakGame\bin\Debug\CardBoxLib.pdb
+C:\Users\amara\Documents\GitHub\DurakGame\DurakGame\obj\Debug\DurakGame.csprojAssemblyReference.cache
+C:\Users\amara\Documents\GitHub\DurakGame\DurakGame\obj\Debug\DurakGame.MainForm.resources
+C:\Users\amara\Documents\GitHub\DurakGame\DurakGame\obj\Debug\DurakGame.StatisticForm.resources
+C:\Users\amara\Documents\GitHub\DurakGame\DurakGame\obj\Debug\DurakGame.Properties.Resources.resources
+C:\Users\amara\Documents\GitHub\DurakGame\DurakGame\obj\Debug\DurakGame.csproj.GenerateResource.cache
+C:\Users\amara\Documents\GitHub\DurakGame\DurakGame\obj\Debug\DurakGame.csproj.CoreCompileInputs.cache
+C:\Users\amara\Documents\GitHub\DurakGame\DurakGame\obj\Debug\DurakGame.csproj.CopyComplete
+C:\Users\amara\Documents\GitHub\DurakGame\DurakGame\obj\Debug\DurakGame.exe
+C:\Users\amara\Documents\GitHub\DurakGame\DurakGame\obj\Debug\DurakGame.pdb
+C:\Users\amara\Documents\GitHub\DurakGame\DurakGame\bin\Debug\DurakGame.exe.manifest
+C:\Users\amara\Documents\GitHub\DurakGame\DurakGame\bin\Debug\DurakGame.application
+C:\Users\amara\Documents\GitHub\DurakGame\DurakGame\obj\Debug\DurakGame.TrustInfo.xml
+C:\Users\amara\Documents\GitHub\DurakGame\DurakGame\obj\Debug\DurakGame.exe.manifest
+C:\Users\amara\Documents\GitHub\DurakGame\DurakGame\obj\Debug\DurakGame.application

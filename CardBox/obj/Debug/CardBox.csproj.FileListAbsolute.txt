@@ -18,3 +18,15 @@ C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\CardBox
 C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\CardBox\obj\Debug\CardBox.csproj.GenerateResource.Cache
 C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\CardBox\obj\Debug\CardBox.dll
 C:\Users\Troll\Desktop\Durham College\Semester 4\OOP\FinalProjectGroup02\CardBox\obj\Debug\CardBox.pdb
+C:\Users\amara\Documents\GitHub\DurakGame\CardBox\bin\Debug\CardBox.dll
+C:\Users\amara\Documents\GitHub\DurakGame\CardBox\bin\Debug\CardBox.pdb
+C:\Users\amara\Documents\GitHub\DurakGame\CardBox\bin\Debug\CardBoxLib.dll
+C:\Users\amara\Documents\GitHub\DurakGame\CardBox\bin\Debug\CardBoxLib.pdb
+C:\Users\amara\Documents\GitHub\DurakGame\CardBox\obj\Debug\CardBox.csprojAssemblyReference.cache
+C:\Users\amara\Documents\GitHub\DurakGame\CardBox\obj\Debug\CardBox.CardBox.resources
+C:\Users\amara\Documents\GitHub\DurakGame\CardBox\obj\Debug\CardBox.Properties.Resources.resources
+C:\Users\amara\Documents\GitHub\DurakGame\CardBox\obj\Debug\CardBox.csproj.GenerateResource.cache
+C:\Users\amara\Documents\GitHub\DurakGame\CardBox\obj\Debug\CardBox.csproj.CoreCompileInputs.cache
+C:\Users\amara\Documents\GitHub\DurakGame\CardBox\obj\Debug\CardBox.csproj.CopyComplete
+C:\Users\amara\Documents\GitHub\DurakGame\CardBox\obj\Debug\CardBox.dll
+C:\Users\amara\Documents\GitHub\DurakGame\CardBox\obj\Debug\CardBox.pdb
